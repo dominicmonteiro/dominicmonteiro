@@ -50,6 +50,6 @@ In the teams I was part of, I used agile methodologies such as Scrum and Kanban 
 
   <br/>
   <h3> Latest contribution </h3>
-<a href="https://github.com/dominicmonteiro/github-readme-activity-graph">
+<a href="https://github.com/dominicmonteiro">
   <img alt="Dominic's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=dominicmonteiro&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
 </a>
