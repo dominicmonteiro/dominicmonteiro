@@ -15,25 +15,6 @@
 ---
 
 <div>
-    <h3>Contact me by:</h3>
-    <p align="center">
-        <br />
-        <a href="https://www.linkedin.com/in/dominic-monteiro" target="blank"><img align="center"
-                src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-                alt="dominic" height="30" /></a>
-        <a href="mailto:monteiro2silva@gmail.com" target="blank"><img align="center"
-                src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-                alt="dominic" height="30" /></a>
-        <a href="https://wa.me/+5511984366281" target="blank"><img align="center"
-                src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-                alt="dominicmonteiro" height="30" /></a>
-        <br>
-    </p>
-</div>
-
----
-
-<div>
     <h3>Statistic</h3>
     <p align="center">
         <a href="https://github.com/dominicmonteiro/">
@@ -111,3 +92,22 @@
     <img alt="Dominic's Activity Graph"
         src="https://activity-graph.herokuapp.com/graph/?username=dominicmonteiro&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
 </a>
+
+---
+
+<div>
+    <h3>Contact me by</h3>
+    <p align="center">
+        <br />
+        <a href="https://www.linkedin.com/in/dominic-monteiro" target="blank"><img align="center"
+                src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+                alt="dominic" height="30" /></a>
+        <a href="mailto:monteiro2silva@gmail.com" target="blank"><img align="center"
+                src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+                alt="dominic" height="30" /></a>
+        <a href="https://wa.me/+5511984366281" target="blank"><img align="center"
+                src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+                alt="dominicmonteiro" height="30" /></a>
+        <br>
+    </p>
+</div>
