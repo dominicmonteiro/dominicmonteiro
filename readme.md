@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center">Hi, I'm Dominic</h1>
     <p align="left">
-        I have experience in systems integration, architecture and custom software development.<br>
+        I have experience in systems integration, architecture and software development.<br>
         I've worked with several technologies, architectures and integrations with Oracle Soa Suite, AWS and bureaus
         tools to query personal data (Serasa, banks...).<br>
         I created APIs with specifications for high demands in Microservice and Monolith with Java, C#, Node.js and PHP
