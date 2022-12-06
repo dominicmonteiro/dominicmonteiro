@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">Hi, I'm Dominic</h1>
+    <h1 align="center">Dominic Monteiro - Software Developer</h1>
     <p align="left">
         I have experience in systems integration, architecture and software development.<br>
         I've worked with several technologies, architectures and integrations with Oracle Soa Suite, AWS and bureaus
