@@ -2,11 +2,10 @@
     <h1 align="center">Dominic Monteiro - Software Developer</h1>
     <p align="left">
         I have experience in systems integration, architecture and software development.<br>
-        I've worked with several technologies, architectures and integrations with Oracle Soa Suite, AWS and bureaus
-        tools to query personal data (Serasa, banks...).<br>
+        I have experience in the financial sector creating fintechs and startups. I've worked using Brazilian bureaus for extracting and validating personal data using IdWall and software for proof of life.<br>
         I created APIs with specifications for high demands in Microservice and Monolith with Java, C#, Node.js and PHP
         technologies.<br>
-        I used the following databases: MySql, SQL Server, Mongodb and PostgreSQL.<br>
+        I used databases SQLs and NoSQLs as sample: MySql, SQL Server, PostgreSQL, Mongodb and DynamoDB.<br>
         I developed websites using JavaScript, XML, Vuejs, AngularJs and front-end frameworks.<br>
         In the teams I was part of, I used agile methodologies such as Scrum and Kanban to manage tasks.
     </p>
@@ -115,10 +114,10 @@
 ---
 
 <div>
-    <h3>View Counter</h3>
+    <h3>Profile Views</h3>
     <p align="center">
         <br />
-        ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+        <img src="https://profile-counter.glitch.me/dominicmonteiro/count.svg" />
         <br />
     </p>
     </p>
