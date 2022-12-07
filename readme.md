@@ -111,3 +111,15 @@
         <br>
     </p>
 </div>
+
+---
+
+<div>
+    <h3>View Counter</h3>
+    <p align="center">
+        <br />
+        ![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+        <br />
+    </p>
+    </p>
+</div>
