@@ -85,13 +85,6 @@
     </p>-->
 </div>
 
-<br />
-<h3> Latest public contribution </h3>
-<a href="https://github.com/dominicmonteiro">
-    <img alt="Dominic's Activity Graph"
-        src="https://activity-graph.herokuapp.com/graph/?username=dominicmonteiro&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
-</a>
-
 ---
 
 <div>
