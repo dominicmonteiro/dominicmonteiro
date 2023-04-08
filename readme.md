@@ -94,7 +94,7 @@
         <a href="https://www.linkedin.com/in/dominic-monteiro" target="blank"><img align="center"
                 src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
                 alt="dominic" height="30" /></a>
-        <a href="mailto:monteiro2silva@gmail.com" target="blank"><img align="center"
+        <a href="mailto:contato@dominicmonteiro.com" target="blank"><img align="center"
                 src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
                 alt="dominic" height="30" /></a>
         <a href="https://wa.me/+5511984366281" target="blank"><img align="center"
