@@ -91,15 +91,3 @@
         <br>
     </p>
 </div>
-
----
-
-<div>
-    <h3>Profile Views</h3>
-    <p align="center">
-        <br />
-        <img src="https://profile-counter.glitch.me/dominicmonteiro/count.svg" />
-        <br />
-    </p>
-    </p>
-</div>
