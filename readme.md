@@ -77,7 +77,7 @@
 
 <div>
     <h3>Contact me by</h3>
-    <p align="center">
+    <p>
         <br />
         <a href="https://www.linkedin.com/in/dominic-monteiro" target="blank"><img align="center"
                 src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
